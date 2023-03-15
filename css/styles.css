@@ -42,3 +42,16 @@ span,
     border-radius: 50%;
     z-index: 5;
 }
+#clock-second {
+    width: 1px;
+    height: 130px;
+    background: #fff;
+    top: 20px;
+    left: 150px;
+    z-index: 4;
+    border-radius: 0.5px;
+}
+
+#clock-minute {
+    width: 3.5px;
+}
