@@ -111,3 +111,12 @@ span:nth-of-type(4){
     top: 137px;
     left: 22px;
 }
+
+#inner-circle {
+    top: 39px;
+    left: 40px;
+    width: 220px;
+    height: 220px;
+    border: 2px solid royalblue;
+    border-radius: 50%;
+}
