@@ -106,3 +106,8 @@ span:nth-of-type(3){
     bottom: 18px;
     left: 144px;
 }
+
+span:nth-of-type(4){
+    top: 137px;
+    left: 22px;
+}
