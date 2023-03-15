@@ -21,3 +21,24 @@ body {
     border: 10px outset royalblue;
     box-shadow: 5px 5px 10px #161618;
 }
+
+span,
+#clock-center,
+#clock-second,
+#clock-minute,
+#clock-hour,
+#inner-circle {
+    display: inline-block;
+    position: absolute;
+}
+
+#clock-center {
+    height: 15px;
+    width: 15px;
+    margin: auto;
+    background: #ff7af9;
+    top: 142.5px;
+    left: 143px;
+    border-radius: 50%;
+    z-index: 5;
+}
