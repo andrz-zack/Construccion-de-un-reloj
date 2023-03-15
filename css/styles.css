@@ -84,3 +84,10 @@ span,
     transition: transform 0.75s;
 }
 
+.displayed-digits {
+    color: gainsboro;
+    font-weight: bolder;
+    font-size: 22px;
+    font-family: sans-serif;
+    z-index: 0;
+}
