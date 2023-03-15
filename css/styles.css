@@ -134,3 +134,12 @@ span:nth-of-type(4){
     letter-spacing: 2px;
 
 }
+#miNombre {
+    display: inline-block;
+    background: #333;
+    padding: 7px 13px;
+    position: relative;
+    border-radius: 20px;
+    font-size: 80%;
+    color: #975;
+}
